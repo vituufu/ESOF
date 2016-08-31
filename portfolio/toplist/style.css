@@ -1,0 +1,22 @@
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+
+}
+
+.header{
+	padding-top:26px;
+	font-family: "Tahoma";
+	font-variant: small-caps;
+	color:white;
+	background-color: #33BEBE;
+}
+.imagem{
+	margin-right: 20px;
+	max-width: 460px;
+}
+.bodytext{
+	max-width: 705px;
+}
