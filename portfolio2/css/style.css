@@ -1,0 +1,21 @@
+h1{
+	font-family: 'Lato';
+	font-weight: bolder;
+	font-size: 60px;
+}
+
+h3{
+	font-size: 30px;
+}
+
+.container{
+	background-color: white;
+}
+.row{
+	color: black;
+}
+
+*{
+	font-family: "Lato";
+	font-variant: small-caps;
+}
